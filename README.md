@@ -6,7 +6,7 @@
   ## Description
   This app is to help with your daily tasks, maintain your tasks organized with taskinator, its easy to use with a friendly UI.
 
-  https://emilioeth.github.io/taskinator/
+  [Link](https://emilioeth.github.io/taskinator/)
 
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=Emilioeth.Taskinator&left_color=blue&right_color=blue)
 
